@@ -1,6 +1,8 @@
 # One Months Rails
 
 This is the pinteresting sample application for
-[*One Month RAils*](http://www.seanlandry.com)
+[*My Run for Office*](http://www.myrunforoffice.com)
+
+A site dedicated to helping candidates get elected to local office.
 
 by [*Sean Landry*](http://www.seanlandry.com)
